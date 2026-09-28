@@ -81,9 +81,7 @@ def level_up_rewards_geven(bestandspad,gebruikers_index,bom_of_kanon):
                 bestand.write(info[0] + " - " + info[1] + " - " + str(info[2]) + " - " + str(info[3]) + " - " + str(info[4]) + " - " + info[5])
         else:
             bestand.write(info)
-
-
-
+        bestand.close()
 
 
 
