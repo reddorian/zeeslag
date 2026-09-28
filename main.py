@@ -44,7 +44,7 @@ def main():
             data_dict = zet_data_om_naar_dict(data)
             print("je hebt", exp, "exp er bij nog", 100 - data_dict[gebruiker_index]["exp"], "tot het volgende level")
         else:
-            exit("bye for now .......")
+            exit("bye for now ........")
         input()
 if __name__ == '__main__':
     main()
