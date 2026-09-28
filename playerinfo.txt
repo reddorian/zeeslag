@@ -4,4 +4,3 @@ billy - 67 - 1 - 0 - 0 - 0
 Max - 67 - 2 - 20 - 1 - 0
 TobiasTheGoat - kaas - 1 - 50 - 0 - 0
 jos-de-boss - abc - 1 - 25 - 0 - 0
-1 - 1 - 1 - 0 - 0 - 0
